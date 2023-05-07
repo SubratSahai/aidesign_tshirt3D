@@ -1,10 +1,10 @@
 # aidesign_tshirt3D
 for running the site:
 FRONTEND:
-cd client
+cd client , 
 npm run dev
 
 BACKEND:
-cd server
+cd server ,
 nodemon index.js
 
